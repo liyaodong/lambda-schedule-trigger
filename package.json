@@ -1,0 +1,23 @@
+{
+  "name": "lambda-schedule-trigger",
+  "version": "1.0.0",
+  "description": "## Deploy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyaodong/lambda-schedule-trigger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liyaodong/lambda-schedule-trigger/issues"
+  },
+  "homepage": "https://github.com/liyaodong/lambda-schedule-trigger#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
