@@ -1,0 +1,8 @@
+{
+  "name": "lambda-trigger-by-cloudwatch",
+  "profile": "default",
+  "regions": ["ap-south-1"],
+  "lambda": {
+    "runtime": "nodejs14.x"
+  }
+}
